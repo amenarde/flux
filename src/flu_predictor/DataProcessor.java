@@ -1,5 +1,6 @@
 package flu_predictor;
 
+<<<<<<< HEAD
 import java.io.*;
 import java.util.*;
 
@@ -123,4 +124,9 @@ public class DataProcessor {
 //		}
 	}
 
+=======
+public class DataProcessor {
+
+	
+>>>>>>> 128f15d49ed03c171df8634feb75b864768f061c
 }
